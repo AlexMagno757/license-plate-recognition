@@ -29,4 +29,4 @@ A computer vision project focused on digital image processing techniques to dete
 ## 📊 Results
 | Original Image | Detected Plate & Text |
 | :---: | :---: |
-| ![Original Image](carro1.jpg) | ![Processed Image](resultado1.jpg) |
+| ![Original Image](image1.jpg) | ![Processed Image](resultado1.jpg) |
