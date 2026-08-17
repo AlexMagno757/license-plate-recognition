@@ -16,7 +16,7 @@ A computer vision project focused on digital image processing techniques to dete
 
 2. Install the required dependencies:
    ```bash
-   pip install opencv-python matplotlib numpy imutils easyocr
+   pip install opencv-python matplotlib numpy imutils
    ```
 
 3. Open the Jupyter Notebook:
@@ -27,6 +27,7 @@ A computer vision project focused on digital image processing techniques to dete
 4. Place your test image in the root directory (e.g., `image1.jpg`), update the file path in the first cell, and run the blocks sequentially.
 
 ## 📊 Results
+
 | Original Image | Detected Plate & Text |
 | :---: | :---: |
 | ![Original Image](image1.jpg) | ![Processed Image](resultado1.png) |
