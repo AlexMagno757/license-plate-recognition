@@ -2,12 +2,12 @@
 
 A computer vision project focused on digital image processing techniques to detect, isolate, and binarize vehicle license plates using Python. The entire pipeline is built and documented in a Jupyter Notebook, demonstrating core image manipulation methods.
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 * **Language:** Python (Jupyter Notebook)
 * **Computer Vision:** OpenCV (`cv2`), Imutils
 * **Data & Visualization:** NumPy, Matplotlib
 
-## 🚀 How to Run
+## 🏃 How to Run
 
 1. Clone this repository:
    ```bash
