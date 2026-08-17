@@ -11,7 +11,7 @@ A computer vision project focused on digital image processing techniques to dete
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/AlexMagno757/license-plate-recognition.git](https://github.com/AlexMagno757/license-plate-recognition.git)
+     git clone https://github.com/AlexMagno757/license-plate-recognition.git
    ```
 
 2. Install the required dependencies:
